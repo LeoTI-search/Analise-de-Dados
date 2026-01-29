@@ -10,6 +10,16 @@ Repositório dedicado ao estudo e prática de Análise de Dados, contendo exempl
 
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/9eed8887-7f2b-474a-b653-a46edef58069)
+## Observação sobre visualização do dashboard
+Para melhor experiência de visualização, o dashboard foi desenvolvido e ajustado
+em um monitor de **24 polegadas**, proporção **16:9**, com resolução padrão Full HD.
+
+Dimensões aproximadas da tela utilizada:
+- **Largura:** 52,7 cm  
+- **Altura:** 29,6 cm  
+
+Em telas menores ou com resoluções diferentes, alguns elementos podem sofrer
+ajustes automáticos de escala ou espaçamento.
 
 ## Objetivo do Projeto
 Analisar dados de vendas com o objetivo de identificar o desempenho por vendedor,

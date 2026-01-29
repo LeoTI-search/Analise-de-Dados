@@ -10,7 +10,7 @@ Repositório dedicado ao estudo e prática de Análise de Dados, contendo exempl
 - Dashboard: visualização final
 
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/9eed8887-7f2b-474a-b653-a46edef58069")
+![Dashboard](https://github.com/user-attachments/assets/9eed8887-7f2b-474a-b653-a46edef58069)
 
 
 
